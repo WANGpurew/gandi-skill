@@ -1,0 +1,48 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "blocks-authoring\\SKILL.md": "6106ea2d2683e8322448834023954950d1a4f2c8b0ed1e704a81315a678abf9c",
+    "capability-destinations.json": "3b68890a591b02db3dd1db4c96e2cc5d3ba1f1b01b81b98e3400fb9bcdf0bf9a",
+    "cli-authoring\\SKILL.md": "8cb396ef56088d174eeea53c8b54394d7da9818adcd672acd483c7d60e9d8588",
+    "engine-tools\\SKILL.md": "154187b702b379ed9407e5d32f3c5c2cef309a141f2fc17031d7c189d0394af8",
+    "extensions-collab\\SKILL.md": "88793b3b228d47ca4e84e6ce542987476acceb689bde1a0ae4248535fa1274d8",
+    "gandi-guide\\references\\capabilities\\blocks-authoring.md": "6661583a76417c45e8a96d44342492af4f5f462db99a965c46de2c4055fdf427",
+    "gandi-guide\\references\\capabilities\\cli-authoring.md": "4cdc113522520e21a5b3175e64329cc8073b2f2478432036ef1936f0c2b3b8c2",
+    "gandi-guide\\references\\capabilities\\code-navigation.md": "a66d1ca757b45343cc7e2cece24c0ba8b1a2dc820fe6fff5403fcfcc003f6a08",
+    "gandi-guide\\references\\capabilities\\engine-tools.md": "0db25fc31dc1851fb5d7736070a54f28f133be340e83c03a7ec9ad88acd81a01",
+    "gandi-guide\\references\\capabilities\\extensions-collab.md": "d9fa2a9f7ab44c918e2ce0a5a4ccfa21565ff692c9c4361a548700a31fbb981d",
+    "gandi-guide\\references\\capabilities\\layout-workspace.md": "8f9e8e91f138e79682baccf645353a596ed0adcbba8e3492b457a47afccfe9f6",
+    "gandi-guide\\references\\capabilities\\media-creation.md": "079031aa081dcdceeb6185647f25e5dbe7882c39cf63e5e7d77d9f7b434cfc43",
+    "gandi-guide\\references\\capabilities\\project-files.md": "c95f3c127daf87f59305338abfdd4eb17d1159e1bb24ea535fb23d2c9fba3490",
+    "gandi-guide\\references\\capabilities\\run-debug.md": "f21d2fbdce99393be4e46364b08476beffa6a3ad9a92a8d0757a066fe7a2e92a",
+    "gandi-guide\\references\\capabilities\\scenes-assets.md": "dffe8d2e1bc07726d145eb7ee8f3f168abc68a8fd5911b24761a49e80197cb20",
+    "gandi-guide\\references\\capability-index.md": "0eff6264e6db6d0c8998d3ad7ccd9b9866ac672b917ed52359191ecb3b688d0a",
+    "gandi-guide\\references\\cheatsheet.md": "f5cc56b6aff23b595e1442f6f68c5e44a0f9b3d954426cc277023192abf52b21",
+    "gandi-guide\\references\\glossary.md": "77c9ddf88c603019fef60c948eeb4aed39e80d83a355bf6f71c4676604e43a3d",
+    "gandi-guide\\references\\overview.md": "9ee8c4ce0ee88ee79e8cd516336cad131589e82bc19cdbe9cde2863996acf2b8",
+    "gandi-guide\\SKILL.md": "ca0b0d3fc7e78f05c237955202e03b6c04e43768df27b26fcf196793897e2aac",
+    "project-files\\SKILL.md": "5f36bcf72019fa7ae14f2ec83322742be9574d22479b39941a8bc17958838c3d",
+    "run-debug\\SKILL.md": "d82da48edc245e96c460e21ae60905d54d1041e54d69df9055dcbed49923abc4",
+    "scenes-assets\\SKILL.md": "6ad8a481f16784475becad999821b236597a2de708a1613205ad6858946e18b6"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.gandi-guide",
+  "bundle_sha256": "0ebf31fbe10d4de3badbcf5bceacc5039854d851733843aa9e19f1a5c990976b",
+  "variant": "pack",
+  "run_id": "run-20261120-123052-481fe9",
+  "decision": {
+    "schema_version": 1,
+    "requested": "pack",
+    "selected": "pack",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 7,
+    "capability_count": 10,
+    "reasons": [
+      "用户显式选择 pack，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "single（1 个入口 + 10 张内部能力卡）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}

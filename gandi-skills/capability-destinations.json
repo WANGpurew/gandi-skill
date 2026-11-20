@@ -1,0 +1,49 @@
+{
+  "generated_by": "cangjie-tools v2.5.0",
+  "bundle_id": "bundle.gandi-guide",
+  "router_entrypoint": "gandi-guide",
+  "entrypoint_count": 8,
+  "capability_count": 10,
+  "destinations": {
+    "cap.gandi.cli-ai-workflow": {
+      "promoted_to": "cli-authoring",
+      "router_view": "gandi-guide/references/capabilities/cli-authoring.md"
+    },
+    "cap.gandi.run-debug": {
+      "promoted_to": "run-debug",
+      "router_view": "gandi-guide/references/capabilities/run-debug.md"
+    },
+    "cap.gandi.blocks-authoring": {
+      "promoted_to": "blocks-authoring",
+      "router_view": "gandi-guide/references/capabilities/blocks-authoring.md"
+    },
+    "cap.gandi.project-files": {
+      "promoted_to": "project-files",
+      "router_view": "gandi-guide/references/capabilities/project-files.md"
+    },
+    "cap.gandi.scenes-assets": {
+      "promoted_to": "scenes-assets",
+      "router_view": "gandi-guide/references/capabilities/scenes-assets.md"
+    },
+    "cap.gandi.engine-scene": {
+      "promoted_to": "engine-tools",
+      "router_view": "gandi-guide/references/capabilities/engine-tools.md"
+    },
+    "cap.gandi.extensions-collab": {
+      "promoted_to": "extensions-collab",
+      "router_view": "gandi-guide/references/capabilities/extensions-collab.md"
+    },
+    "cap.gandi.layout-workspace": {
+      "served_by": "gandi-guide",
+      "card": "gandi-guide/references/capabilities/layout-workspace.md"
+    },
+    "cap.gandi.code-navigation": {
+      "served_by": "gandi-guide",
+      "card": "gandi-guide/references/capabilities/code-navigation.md"
+    },
+    "cap.gandi.media-creation": {
+      "served_by": "gandi-guide",
+      "card": "gandi-guide/references/capabilities/media-creation.md"
+    }
+  }
+}
